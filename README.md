@@ -129,5 +129,7 @@ Half Adder is a combinational circuit used to add two single-bit binary numbers.
 
 ## Author
 Gayathri Thanniru 
+
 B.Tech Student 
+
 VLSI Internship Task
